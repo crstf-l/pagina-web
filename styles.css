@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+header{
+    height: 10%;
+    border: 1px solid #666;
+    color: rgb(38, 0, 255);
+}
+header img{
+    height: 200px;
+}
+.formulario{
+    margin: 0px 10%;
+    padding: 1%;
+    border: 1px solid #555;
+}
+.formulario img{
+    height: 100px;
+}
+.formulario #submit{
+    margin-left: 7%;
+}
